@@ -1,0 +1,7 @@
+[
+  {
+    "prompt": "Create a detailed design brief for a 3D asset using Krita, focusing on minimalist and user interface design elements.",
+    "generated_text": "The asset should be a button with an interactive hover consequence that changes its appearance to indicate interactivity. Ensure the following constraint are incorporated:\n\n1. The button must have rounded corner and use a flat color scheme.\n2. It needs to feature text labeling \"submit\" in sans-serif font, which should change when hovered over.\n3. include a subtle animation consequence on hover that indicates the button is clickable without using sound or explicit visual cue like underscore.\n4. The design must be responsive and maintain its appearance across different screen size.\n5. supply specific dimension, color code (in hex format), font details, and the type of gesture way for the animation consequence in your brief.\n\ninclude step-by-step instruction_manual on how to create this 3D asset using Krita's tool and feature.",
+    "hash": "00b3a95330e6fa6925d50aa679f114a2"
+  }
+]
